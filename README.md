@@ -51,6 +51,13 @@ This app works best in **Google Chrome** (on both desktop and Android).
 
 ---
 
+## 🌐 Live Demo
+
+You can view the live demo of the AI Assistant at:  
+[AI Assistant Demo](https://ai-assitant-git-master-tejashwi-satyams-projects.vercel.app/)
+
+---
+
 ## 🚀 Future Enhancements (Optional Ideas)
 
 - Support for more commands.
